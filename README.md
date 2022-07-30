@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @pianoelle
 - 👀 I’m interested in QA analyst work.
-- 🌱 I’m currently learning Github.
+- 🌱 I’m proficient at Github and Jira.
+
+See my [LinkedIn profile](https://www.linkedin.com/in/pia-teehan-1b11a799/)
 
 <!---
 pianoelle/pianoelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
